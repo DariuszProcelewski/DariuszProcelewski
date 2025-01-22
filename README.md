@@ -14,4 +14,6 @@
 
 <h2>🤳Connect with me:</h2>
 
-<img align="left" alt="[https://www.linkedin.com/in/dariusz-procelewski-a99845210)" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" /> https://www.linkedin.com/in/dariusz-procelewski-a99845210/
+[<img align="left" alt="dariusz-procelewski-a99845210/ | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+
+[linkedin]: https://www.linkedin.com/in/dariusz-procelewski-a99845210/
